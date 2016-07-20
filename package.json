@@ -1,0 +1,29 @@
+{
+  "name": "prova",
+  "version": "1.0.0",
+  "description": "Prova Mongeral Aegon",
+  "main": "package.json",
+  "scripts": {
+    "test": "echo \\\"Erro: não especificado\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MongeralAegonDigital/front-end-trabalhe-na-mad.git"
+  },
+  "keywords": [
+    "prova",
+    "front"
+  ],
+  "author": "Taynara Jaegger da Silva",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/MongeralAegonDigital/front-end-trabalhe-na-mad/issues"
+  },
+  "homepage": "https://github.com/MongeralAegonDigital/front-end-trabalhe-na-mad#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-uglify": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0"
+  }
+}
